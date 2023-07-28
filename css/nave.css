@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+}
+.nave{
+    background-color: aliceblue;
+    height: 100px;
+}
+.img{
+    height: 80px;
+    margin-top: 10px;
+}
+.kuttyma{
+    display: flex;
+    list-style: none;
+    font-size: large;
+    margin-top: 70px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.kuttyma li{
+    margin-left: 20px;
+}
+.murugaa{
+   font-family: 'Times New Roman'; 
+   font-size: large;
+   margin-top: 70px;
+   
+}
+.banner{
+    background-image: url(../img/banner\ gif.gif);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.banner{
+
+}
+
+
